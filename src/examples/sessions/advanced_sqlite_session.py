@@ -13,9 +13,7 @@ agent = Agent(
 
 # Create with advanced features
 session = AdvancedSQLiteSession(
-    session_id="user_123",
-    db_path="conversations.db",
-    create_tables=True
+    session_id="user_123", db_path="conversations.db", create_tables=True
 )
 
 
