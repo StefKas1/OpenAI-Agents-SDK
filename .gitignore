@@ -3,4 +3,4 @@
 *.pyc
 /.ruff_cache
 /src/__pycache__
-conversations.db
+**.db
